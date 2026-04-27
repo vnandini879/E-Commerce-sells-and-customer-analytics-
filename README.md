@@ -51,17 +51,38 @@ ecommerce-analytics-project/
 * **Geography**: Confirmed **SP (São Paulo)** as the primary hub with 41,746 customers.
 
 ##  **Visualisation**
-![image alt](
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/1.png)
+
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/2.png)
+
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/3.png)
+
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/4.png)
+
 
 ### **Level 2: Intermediate Analytics**
 * **Seasonality**: Identified January 2018 as a peak period with **6,288 orders**.
 * **Revenue Leaders**: Ranked product categories by revenue; **Health & Beauty** dominates the market share at **9.26%**.
 * **Seller Performance**: Ranked the top-performing seller with a total revenue of **₹2,29,472**.
 
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/5.png)
+
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/6.png)
+
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/7.png)
+
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/8.png)
+
 ### **Level 3: Advanced Strategic Intelligence**
 * **YoY Growth**: Analyzed a massive **12,000%+ revenue surge** between 2016 and 2017.
 * **Customer Retention**: Calculated a **2.31% retention rate**, highlighting the need for future loyalty programs.
 * **Moving Averages**: Utilized SQL window functions to calculate the moving average of order values to track spending volatility.
+
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/9.png)
+
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/10.png)
+
+![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/11.png)
 
 ## Key Business Insights
 1.  **The "São Paulo" Dominance**: Over 40% of the customer base is concentrated in one state, suggesting a need for logistical optimization in that region.
