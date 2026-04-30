@@ -50,6 +50,9 @@ ecommerce-analytics-project/
 * **Payment Behavior**: Found that **49.42%** of all orders are paid using installments.
 * **Geography**: Confirmed **SP (São Paulo)** as the primary hub with 41,746 customers.
 
+## **SQL and PYTHON code**
+![image alt]()
+
 ##  **Visualisation**
 ![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/1.png)
 
