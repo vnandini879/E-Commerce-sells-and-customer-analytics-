@@ -51,7 +51,7 @@ ecommerce-analytics-project/
 * **Geography**: Confirmed **SP (São Paulo)** as the primary hub with 41,746 customers.
 
 ## **SQL and PYTHON code**
-![image alt]()
+![image alt](https://github.com/vnandini879/E-Commerce-sells-and-customer-analytics-/blob/3a3120915601d44b60335b5bc532d68b81673b5a/sql%20and%20python.png)
 
 ##  **Visualisation**
 ![image alt](https://github.com/vnandini879/E---Commerce-sells-and-customer-analytics-/blob/4cbba7e66577c911c0f32e6e95aa8565a1728572/1.png)
