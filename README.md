@@ -97,7 +97,8 @@ ecommerce-analytics-project/
 4.  **Explore**: Run `python_code.ipynb` to view the visual trends or `sql_code.ipynb` to inspect the relational database logic.
 
    
-## Project By
-* **Name**: Nandini Verma
-* **Tools**: Python, SQLite, Pandas, Matplotlib, Seaborn
-* **Platform**: Google Colab + GitHub
+### Author
+**Nandini Verma**
+*Data and Business Analyst*
+*[GitHub](https://github.com/vnandini879)*
+*[LinkedIn](https://www.linkedin.com/in/Analyst-kashishagrawal/)*
